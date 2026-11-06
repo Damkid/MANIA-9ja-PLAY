@@ -1,0 +1,13 @@
+{
+  "name": "mania-9ja-play",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MANIA 9JA PLAY WhatsApp entertainment bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
